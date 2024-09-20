@@ -55,6 +55,11 @@ height: 200px;
 
 
 }
-.categoria-videos img: houver;
-opacionl: 1.0;
-border:
+.categoria-videos img: houver {
+    opacity: 1.0;
+    border: 1px solid green;
+}
+
+.categoria h2 {
+    
+}
